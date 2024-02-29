@@ -21,7 +21,7 @@ data "terraform_remote_state" "hcp_vault" {
    config = {
      organization = var.tfc_org
      workspaces = {
-       name = "aws-resources"
+       name = "aws-resources-2"
      }
    }
  }
