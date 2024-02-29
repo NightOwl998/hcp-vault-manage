@@ -13,7 +13,7 @@
      allowed_users           = "*"
      default_extensions      = {
        "permit-pty": ""
-     }
+     } 
      allowed_extensions      = "*"
  }
 
